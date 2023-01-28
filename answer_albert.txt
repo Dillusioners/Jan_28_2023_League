@@ -1,0 +1,1 @@
+After playing 10^5 times for 100 rounds, the approx score is 187.17
